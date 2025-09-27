@@ -1,0 +1,72 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hello, how can I help you today?"
+            ],
+            "responses": [
+                "Hello, how can I help you today?",
+                "Hi, how can I help you today?",
+                "Hello, how can I help you today?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Goodbye",
+                "Bye",
+                "See you later",
+                "See you soon"
+            ],
+            "responses": [
+                "Goodbye, have a great day!",
+                "Bye, have a great day!",
+                "See you later, have a great day!",
+                "See you soon, have a great day!"
+            ]
+        },
+        {
+            "tag": "programming",
+            "patterns": [
+                "What is programming?",
+                "What is Coding",
+                "Tell me about programming",
+                "Tell me about coding"
+            ],
+            "responses": [
+                "Programming, coding is the process of creating instructions for computers to follow. It's like teaching a robot to do something.",
+                "Coding is the process of creating instructions for computers to follow. It's like teaching a robot to do something.",
+                "Programming, coding is the process of creating instructions for computers to follow. It's like teaching a robot to do something."
+            ]
+        },
+        {
+            "tag": "resource",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hello, how can I help you today?"
+            ],
+            "responses": [
+                "Hello, how can I help you today?",
+                "Hi, how can I help you today?",
+                "Hello, how can I help you today?"
+            ]
+        },
+        {
+            "tag": "stocks",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hello, how can I help you today?"
+            ],
+            "responses": [
+                "Hello, how can I help you today?",
+                "Hi, how can I help you today?",
+                "Hello, how can I help you today?"
+            ]
+        }
+    ]
+}
