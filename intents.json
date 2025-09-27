@@ -45,27 +45,30 @@
         {
             "tag": "resource",
             "patterns": [
-                "Hello",
-                "Hi",
-                "Hello, how can I help you today?"
+                "What are the resources?",
+                "resources",
+                "Where can I learn to code?",
+                "What are the resources for coding?",
+                "What are the resources for programming?"
             ],
             "responses": [
-                "Hello, how can I help you today?",
-                "Hi, how can I help you today?",
-                "Hello, how can I help you today?"
+                "You can learn to code from the following resources: ",
+                "Check out youtube videos for coding tutorials"
             ]
         },
         {
             "tag": "stocks",
             "patterns": [
-                "Hello",
-                "Hi",
-                "Hello, how can I help you today?"
+                "What are the stocks?",
+                "stocks",
+                "Share my portfolio",
+                "finance",
+                "money",
+                "buy",
+                "sell"
             ],
             "responses": [
-                "Hello, how can I help you today?",
-                "Hi, how can I help you today?",
-                "Hello, how can I help you today?"
+                "Here are your stocks:"
             ]
         }
     ]
