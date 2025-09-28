@@ -34,12 +34,15 @@
                 "What is programming?",
                 "What is Coding",
                 "Tell me about programming",
-                "Tell me about coding"
+                "Which model shoul I use",
+                "Tell me about different languages"
             ],
             "responses": [
                 "Programming, coding is the process of creating instructions for computers to follow. It's like teaching a robot to do something.",
                 "Coding is the process of creating instructions for computers to follow. It's like teaching a robot to do something.",
-                "Programming, coding is the process of creating instructions for computers to follow. It's like teaching a robot to do something."
+                "Programming, coding is the process of creating instructions for computers to follow. It's like teaching a robot to do something.",
+                "Javascript is for web development, Python is for machine learning and data science, Java is for Android development, and C++ is for game development."
+
             ]
         },
         {
